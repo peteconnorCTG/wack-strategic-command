@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="miter" stroke-width="4">
+  <symbol id="PORTRAIT-P04-EVELYN-HARROW">
+    <circle cx="48" cy="32" r="16" />
+    <path d="M24 84c2-22 12-34 24-34s22 12 24 34M28 25h40M38 35h4m12 0h4" />
+  </symbol>
+  <symbol id="PORTRAIT-P04-WARREN-HOLT">
+    <path d="M31 30 48 16l17 14-5 20H36l-5-20ZM22 84c4-20 13-31 26-31s22 11 26 31M36 34h24" />
+  </symbol>
+  <symbol id="PORTRAIT-P04-MARGARET-KEENE">
+    <circle cx="48" cy="31" r="15" />
+    <path d="M25 84c3-21 11-32 23-32s20 11 23 32M30 25c6-13 30-13 36 0M40 35h16M48 50v34" />
+  </symbol>
+  <symbol id="PORTRAIT-P04-ISAIAH-MERCER">
+    <path d="M34 18h28l5 16-8 17H37l-8-17 5-16ZM23 84c4-21 12-31 25-31s21 10 25 31M38 31h20M37 42h22" />
+  </symbol>
+  <symbol id="PORTRAIT-P04-STUART-PRITCHARD">
+    <circle cx="48" cy="32" r="16" />
+    <path d="M22 84c4-20 13-31 26-31s22 11 26 31M27 28h42M33 21h30M39 38h18" />
+  </symbol>
+  <symbol id="PORTRAIT-P04-ADRIAN-BECK">
+    <path d="M32 23 48 15l16 8 3 16-12 13H41L29 39l3-16ZM22 84c4-20 13-30 26-30s22 10 26 30M39 30h18M48 23v17" />
+  </symbol>
+  <symbol id="PORTRAIT-P04-MIRIAM-CALDER">
+    <circle cx="48" cy="32" r="16" />
+    <path d="M23 84c3-21 12-32 25-32s22 11 25 32M31 27c5-15 29-15 34 0M38 38h20M33 64h30" />
+  </symbol>
+</svg>
