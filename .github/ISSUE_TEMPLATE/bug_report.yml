@@ -1,0 +1,45 @@
+name: Report a problem
+description: Help us reproduce a problem with the game or handbook.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for helping improve W.A.C.K. Reports are public. Leave out personal information, credentials, and unredacted saved records. Mark story spoilers clearly."
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      description: Include browser version and operating system if you know them.
+      placeholder: "Chrome on Windows 11, Safari on iPhone, etc."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you click or do before the problem appeared?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+      description: Include the message shown, if any.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or date played
+      description: If you do not know the version, give the date you encountered the problem.
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context or screenshot (optional)
+      description: Mention the room or order involved. Redact personal information and label spoilers.
