@@ -1,31 +1,15 @@
 # W.A.C.K. — Strategic Command System
 
-An original single-player Cold War strategy game. Read conflicting reports, weigh your advisers' recommendations, and decide how to respond as a military crisis unfolds.
+An original single-player Cold War strategy game. Read conflicting reports, weigh your advisers’ recommendations, and decide how to respond as a crisis unfolds.
 
-**[Play W.A.C.K.](https://peteconnorctg.github.io/wack-strategic-command/)** · **[Read the Player's Handbook (PDF)](https://peteconnorctg.github.io/wack-strategic-command/docs/WACK-Players-Handbook.pdf)**
+**[Play W.A.C.K.](https://peteconnorctg.github.io/wack-strategic-command/)** · **[Player’s Handbook](https://peteconnorctg.github.io/wack-strategic-command/docs/WACK-Players-Handbook.pdf)**
 
-![W.A.C.K. command deck showing the North Atlantic map, incoming reports, and orders awaiting a player decision](docs/images/command-deck.png)
+Select **START NEW CAMPAIGN**, then **CONTINUE CAMPAIGN**. Select an order, review its exact effect and turn cost, then confirm. Exchange playback can be paused, replayed, or stepped; it never advances strategic time. Sound is optional. **AUDIO LEVELS** contains the **Intensity effects** setting; reduced motion suppresses animation.
 
-## Getting started
+Saves stay in this browser on this website. Wait for **ORDER RECORDED — GAME SAVED** before closing. Clearing site data or switching browsers, devices, or website origins does not preserve saves automatically. This presentation update retains campaign content version 0.4.1 and existing save formats.
 
-Open the game in your browser and select **START NEW CAMPAIGN**. After the startup checks, select **CONTINUE CAMPAIGN**. The handbook introduces your role and walks through your first decision. No account or installation is required.
+No account, live service, telemetry, or remote media is required. Broader offline installation and update support remain future work.
 
-## Saving your progress
+[Release notes](docs/RELEASE-NOTES-v0.4.1.md) · [Report a problem](https://github.com/peteconnorCTG/wack-strategic-command/issues/new?template=bug_report.yml)
 
-Saves are stored locally in this browser for this website. They do not automatically transfer from localhost, another website, browser, or device. Clearing browser site data can remove saves.
-
-Use a normal browser window rather than private browsing, and wait for the game to confirm that your order is saved before closing.
-
-## What's in this repository
-
-- `index.html` and `assets/`: the playable browser release.
-- [`docs/WACK-Players-Handbook.pdf`](docs/WACK-Players-Handbook.pdf): the illustrated player guide.
-- [`THIRD-PARTY-NOTICES.txt`](THIRD-PARTY-NOTICES.txt): third-party licenses and attribution.
-
-## Releases and feedback
-
-See [release notes](https://github.com/peteconnorCTG/wack-strategic-command/releases) for published versions and downloads.
-
-Found something that does not work? [Report a problem](https://github.com/peteconnorCTG/wack-strategic-command/issues/new?template=bug_report.yml). Include your browser, the steps that led to the problem, and what you expected. Reports are public; do not include personal information or unredacted saved records.
-
-This repository contains compiled distribution files, not the source development repository. Browser-delivered code and content are publicly inspectable. Publication does not grant a license to the original game source or content. Third-party license terms and attribution are retained in the notices linked above.
+This repository distributes compiled game files and player documentation. Publication grants no license to original game content or source. Third-party terms are in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt). New audio provenance is in [audio/production-provenance.json](audio/production-provenance.json).
